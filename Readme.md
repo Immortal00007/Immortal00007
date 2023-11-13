@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhar Mahendra</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;MERN+Stack+Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
